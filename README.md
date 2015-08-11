@@ -1,5 +1,5 @@
 # Premailer
-`sh premailer.sh`
+`sh premailer.sh <FOLDER> <FILE>`
 
 ##To do
 1. Add HTML minifier
